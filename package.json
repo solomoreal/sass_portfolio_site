@@ -1,0 +1,28 @@
+{
+  "name": "responsive_portfolio",
+  "version": "1.0.0",
+  "description": "responsive portfolio site template",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/solomoreal/sass_portfolio_site.git"
+  },
+  "keywords": [
+    "responsive",
+    "scss",
+    "html",
+    "javascript"
+  ],
+  "author": "Onuche Solomon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/solomoreal/sass_portfolio_site/issues"
+  },
+  "homepage": "https://github.com/solomoreal/sass_portfolio_site#readme",
+  "dependencies": {
+    "node-sass": "^4.14.1"
+  }
+}
